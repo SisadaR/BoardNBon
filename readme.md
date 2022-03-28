@@ -1,7 +1,7 @@
-# รวมรวมบทความที่เคยเขียนไว้ที่เพจบอร์ดแล้วบ่น
+# รวมบทความที่เคยเขียนไว้ที่เพจบอร์ดแล้วบ่น
 FB Page [บอร์ดแล้วบ่น](https://www.facebook.com/boardnbon)
 
-WordPressed [บอร์ดแล้วบ่น](https://boardnbon.wordpress.com) - ไว้เก็บข้อเขียนเก่า ไม่ได้เอาลงต่อเพราะที่เต็ม
+WordPressed [บอร์ดแล้วบ่น](https://boardnbon.wordpress.com) - *ไว้เก็บข้อเขียนเก่า ไม่ได้เอาลงต่อเพราะที่เต็ม*
 
 <p align="center">
   <img src="https://github.com/SisadaR/BoardNBon/blob/main/images/_etc/logo.png?raw=true" width="360" />
