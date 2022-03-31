@@ -4,7 +4,7 @@ FB Page [บอร์ดแล้วบ่น](https://www.facebook.com/boardnbo
 WordPressed [บอร์ดแล้วบ่น](https://boardnbon.wordpress.com) - *ไว้เก็บข้อเขียนเก่า ไม่ได้เอาลงต่อเพราะที่เต็ม*
 
 <p align="center">
-  <img src="https://github.com/SisadaR/BoardNBon/blob/main/images/_etc/logo.png?raw=true" width="360" />
+  <img src="https://github.com/SisadaR/BoardNBon/blob/main/images/_etc/logo.png?raw=true" width="240" />
 </p>
 
 > ### *When playing a game, the goal is to win, but it is the goal that is important, not the winning* ~ **Reiner Knizia**
@@ -17,6 +17,8 @@ WordPressed [บอร์ดแล้วบ่น](https://boardnbon.wordpress.c
 ---
 
 2022
+
+* [Carnegie - กบชอบ](https://github.com/SisadaR/BoardNBon/blob/main/contents/carnegie.md)
 
 * [Beyond The Sun - กบชอบ](https://github.com/SisadaR/BoardNBon/blob/main/contents/beyond%20the%20sun.md)
 
