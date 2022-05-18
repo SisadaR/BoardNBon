@@ -28,5 +28,7 @@ WordPressed [บอร์ดแล้วบ่น](https://boardnbon.wordpress.c
 
 * [Lost Ruins of Arnark - กบโอเค](https://github.com/SisadaR/BoardNBon/blob/main/contents/lost%20ruins%20of%20arnak.md)
 
+* [Ark Nova - กบชอบ](https://github.com/SisadaR/BoardNBon/blob/main/contents/ark%20nova.md)
+
 
 
