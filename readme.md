@@ -18,6 +18,10 @@ WordPressed [บอร์ดแล้วบ่น](https://boardnbon.wordpress.c
 
 2022
 
+* [Hallertau - กบชอบ](https://github.com/SisadaR/BoardNBon/blob/main/contents/hallertau.md)
+
+* [Ark Nova - กบชอบ](https://github.com/SisadaR/BoardNBon/blob/main/contents/ark%20nova.md)
+
 * [Carnegie - กบชอบ](https://github.com/SisadaR/BoardNBon/blob/main/contents/carnegie.md)
 
 * [Beyond The Sun - กบชอบ](https://github.com/SisadaR/BoardNBon/blob/main/contents/beyond%20the%20sun.md)
@@ -28,7 +32,8 @@ WordPressed [บอร์ดแล้วบ่น](https://boardnbon.wordpress.c
 
 * [Lost Ruins of Arnark - กบโอเค](https://github.com/SisadaR/BoardNBon/blob/main/contents/lost%20ruins%20of%20arnak.md)
 
-* [Ark Nova - กบชอบ](https://github.com/SisadaR/BoardNBon/blob/main/contents/ark%20nova.md)
+
+
 
 
 
