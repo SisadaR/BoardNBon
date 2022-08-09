@@ -18,6 +18,8 @@ WordPressed [บอร์ดแล้วบ่น](https://boardnbon.wordpress.c
 
 2022
 
+* [Clash of Cultures : Monumental Edition - กบโปรด](https://github.com/SisadaR/BoardNBon/blob/main/contents/clash_of_cultures.md)
+
 * [Ultimate Railroad - กบโปรด](https://github.com/SisadaR/BoardNBon/blob/main/contents/ultimate_railroads.md)
 
 * [Merv - กบชอบ](https://github.com/SisadaR/BoardNBon/blob/main/contents/merv.md)
