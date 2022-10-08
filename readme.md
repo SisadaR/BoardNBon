@@ -18,6 +18,10 @@ WordPressed [บอร์ดแล้วบ่น](https://boardnbon.wordpress.c
 
 2022
 
+* [Space Station Phoenix - กบโอเค](https://github.com/SisadaR/BoardNBon/blob/main/contents/space_station_phoenix.md)
+
+* [First Contract - กบชอบ](https://github.com/SisadaR/BoardNBon/blob/main/contents/first_contract.md)
+
 * [Bitoku - กบโอเค](https://github.com/SisadaR/BoardNBon/blob/main/contents/bitoku.md)
 
 * [Clash of Cultures : Monumental Edition - กบโปรด](https://github.com/SisadaR/BoardNBon/blob/main/contents/clash_of_cultures.md)
